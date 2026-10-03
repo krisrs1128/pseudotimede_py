@@ -2,10 +2,10 @@
 
 
 [PseudotimeDE](https://doi.org/10.1186/s13059-021-02341-y) is a statistical
-method for testing whether genes are differentially expression across a
+method for testing whether genes are differentially expressed across a
 pseudotime trajectory. This repository gives a python implementation following
-the existing [R package](https://github.com/SONGDONGYUAN1994/PseudotimeDE).
-It uses the [scDesigner](https://github.com/krisrs1128/scDesigner) package to
+the existing [R package](https://github.com/SONGDONGYUAN1994/PseudotimeDE).  It
+uses the [scDesigner](https://github.com/krisrs1128/scDesigner) package to
 accelerate model fitting.
 
 ![](assets/lps_pvalues.png)
