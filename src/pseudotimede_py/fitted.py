@@ -1,4 +1,6 @@
 """scDesigner interface for NB marginals."""
+from __future__ import annotations
+
 import copy
 import numpy as np
 import pandas as pd
