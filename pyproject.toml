@@ -1,6 +1,6 @@
 [project]
 name = "pseudotimede-py"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Kris Sankaran", email="sankaran.kris@gmail.com" },
 ]
